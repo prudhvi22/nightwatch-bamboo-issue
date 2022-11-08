@@ -1,0 +1,22 @@
+{
+  "name": "nightwatch-bamboo-issue",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prudhvi22/nightwatch-bamboo-issue.git"
+  },
+  "author": "Andrei Rusu",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "103.0.0",
+    "downloads-folder": "3.0.3",
+    "geckodriver": "^3.2.0",
+    "nightwatch": "^2.3.9",
+    "selenium-server": "^3.141.59"
+  }
+}
