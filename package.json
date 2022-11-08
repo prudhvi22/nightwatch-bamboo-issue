@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/prudhvi22/nightwatch-bamboo-issue.git"
   },
-  "author": "Andrei Rusu",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "chromedriver": "103.0.0",
